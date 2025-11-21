@@ -1,16 +1,55 @@
-# flutter_shop
+# 🛍️ Flutter Clothing Shop App
 
-A new Flutter project.
+Ứng dụng **Shop Quần Áo** được xây dựng bằng **Flutter**, cho phép người dùng xem sản phẩm, thêm vào giỏ hàng, đặt hàng và quản lý tài khoản.  
+Dự án phù hợp cho việc học Flutter, xây dựng UI/UX và làm đồ án.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Tính năng chính
 
-A few resources to get you started if this is your first Flutter project:
+### 👕 Danh mục & Sản phẩm
+- Hiển thị danh sách quần áo theo danh mục (Nam, Nữ, Phụ kiện,...)
+- Tìm kiếm sản phẩm theo tên
+- Xem chi tiết sản phẩm (hình ảnh, giá, mô tả)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🛒 Giỏ Hàng
+- Thêm/Xóa sản phẩm
+- Tính tổng tiền
+- Cập nhật số lượng sản phẩm
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📦 Đặt Hàng
+- Điền thông tin người mua
+- Xác nhận đơn hàng
+- Lưu đơn hàng tạm thời
+
+### 👤 Người dùng
+- Đăng ký, đăng nhập
+- Lưu thông tin tài khoản
+- Màn hình hồ sơ cá nhân
+
+---
+
+## 🧱 Công nghệ sử dụng
+
+| Công nghệ | Mô tả |
+|----------|-------|
+| **Flutter 3.x** | Framework chính |
+| **Dart** | Ngôn ngữ lập trình |
+| **Provider / GetX** | Quản lý trạng thái |
+| **REST API (tuỳ chọn)** | Lấy dữ liệu sản phẩm |
+
+---
+
+## 📱 Giao diện ứng dụng
+
+### 🏠 Trang chủ  
+Hiển thị banner + danh mục + sản phẩm nổi bật.
+
+### 🔍 Chi tiết sản phẩm  
+Xem toàn bộ thông tin sản phẩm + nút thêm giỏ hàng.
+
+### 🛒 Giỏ hàng  
+Danh sách sản phẩm đã chọn + tổng tiền.
+
+---
+
