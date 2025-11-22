@@ -49,7 +49,7 @@ Hiển thị banner + danh mục + sản phẩm nổi bật.
 Xem toàn bộ thông tin sản phẩm + nút thêm giỏ hàng.
 
 ### 🛒 Giỏ hàng  
-Danh sách sản phẩm đã chọn + tổng tiền.
+Danh sách sản phẩm đã chọn + tổng tiền
 
 ---
 
