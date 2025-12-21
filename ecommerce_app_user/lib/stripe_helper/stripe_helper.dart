@@ -69,7 +69,7 @@ createPaymentIntent(String amount, String currency) async {
       Uri.parse('https://api.stripe.com/v1/payment_intents'),
       headers: {
         'Authorization':
-            '',
+            'Bearer ....',
         'Content-Type': 'application/x-www-form-urlencoded',
       },
       body: body,
