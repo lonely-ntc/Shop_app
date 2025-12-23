@@ -122,15 +122,9 @@ Role:
 * 🔔 Push Notification (Order status)
 * 📊 Admin Dashboard (Chart)
 * 🌐 REST API backend
-* 💳 Payment Gateway (VNPay / Momo)
+* 💳 Payment Gateway 
 * 🧠 Recommendation System
 
 ---
 
-## 👨‍💻 Tác giả
-
-**Fashion Shop App**
-Flutter • Firebase 
-
----
 
